@@ -14,14 +14,19 @@
 2. Perulangan dengan while
 
 3. Kontrol Perulangan
+   
 
-FLOWCHART
+# FLOWCHART
 ![gambar](ss5.png)
-STRUKTUR KONDISI LATIHAN 1
+
+# STRUKTUR KONDISI LATIHAN 1
 ![gambar](ss1.png)
-STRUKTUR KONDISI LATIHAN 2
+
+# STRUKTUR KONDISI LATIHAN 2
 ![gambar](ss2.png)
-PERULANGAN LATIHAN 1
+
+# PERULANGAN LATIHAN 1
 ![gambar](ss4.png)
-PERULANGAN LATIHAN 2
+
+# PERULANGAN LATIHAN 2
 ![gambar](ss3.png)
